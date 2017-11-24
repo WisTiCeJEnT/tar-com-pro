@@ -10,4 +10,4 @@ for i in range(20):
 print("Original list:")
 print(lis)
 for i in range(11):
-    print("{} ".format(i)+"*"*his[i])
+    print("{} ".format(i+1)+"*"*his[i])
